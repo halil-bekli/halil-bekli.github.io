@@ -320,7 +320,6 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
-  jekyll-remote-theme
   jekyll-theme-architect
 
 BUNDLED WITH
